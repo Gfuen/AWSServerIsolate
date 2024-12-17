@@ -48,5 +48,5 @@ options:
 
 Copyright (C) Gregory Fuentes (gregoryfuentes80@gmail.com)
 
-License: GNU General Public License, version 2
+License: GNU General Public License
 
