@@ -10,6 +10,16 @@ Feel to free to use and give any feedback. Thank you.
 
 ### Installation
 
+Clone the Repo and Install Pip locally:
+```
+git clone https://github.com/Gfuen/AWSServerIsolate.git
+```
+
+Clone the Repo and Install Pip with Requirements.txt:
+```
+git clone https://github.com/Gfuen/AWSServerIsolate.git
+
+```
 
 
 ### Usage
