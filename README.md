@@ -8,17 +8,24 @@ and IAM Instance role for further investigation.
 
 Feel to free to use and give any feedback. Thank you.
 
+### Requirements
+
+- Python3
+- AWS CLI Profile Configured
+- AWS EC2 Instance ad Instance ID
+
 ### Installation
 
 Clone the Repo and Install Pip locally:
 ```
 git clone https://github.com/Gfuen/AWSServerIsolate.git
+pip3 install boto3
 ```
 
 Clone the Repo and Install Pip with Requirements.txt:
 ```
 git clone https://github.com/Gfuen/AWSServerIsolate.git
-
+pip install -r requirements.txt
 ```
 
 
