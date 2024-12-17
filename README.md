@@ -12,7 +12,7 @@ Feel to free to use and give any feedback. Thank you.
 
 - Python3
 - AWS CLI Profile Configured
-- AWS EC2 Instance ad Instance ID
+- AWS EC2 Instance including Instance ID and Region information
 
 ### Installation
 
