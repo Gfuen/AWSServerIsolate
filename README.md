@@ -27,4 +27,9 @@ options:
   --profile PROFILE    AWS profile name
 ```
 
+### License
+
+Copyright (C) Gregory Fuentes (gregoryfuentes80@gmail.com)
+
+License: GNU General Public License, version 2
 
