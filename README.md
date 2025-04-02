@@ -16,11 +16,6 @@ Feel to free to use and give any feedback. Thank you.
 
 ### Installation
 
-Clone the Repo and Install Pip locally:
-```
-git clone https://github.com/Gfuen/AWSServerIsolate.git
-pip3 install boto3
-```
 
 Clone the Repo and Install Pip with Requirements.txt:
 ```
